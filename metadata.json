@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Studio",
+  "description": "AI image generator and photo remix studio with negative prompts, style presets, aspect ratio controls, and local gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
